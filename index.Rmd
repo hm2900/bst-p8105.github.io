@@ -33,6 +33,8 @@ Let's link to useful tools for data science:
 
 Here is my PC's background:
 
+<img src="images/bkgd.jpg" style="width:75%">
+
 ![](images/bkgd.jpg)
 
 # Link to page within the site
